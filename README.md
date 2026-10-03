@@ -1,2 +1,4 @@
 # Blinkit-customer-behaviour-analyasis
-the customer behaviour analysis was done  
+# business problem in the blinkit
+
+customer behaviour analysis was done  
